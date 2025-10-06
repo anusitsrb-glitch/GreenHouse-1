@@ -1,6 +1,6 @@
 
 {
-  "version": "3",
-  "firmware_url": "https://raw.githubusercontent.com/anusitsrb-glitch/GreenHouse-1/main/Soil_Sensor1_V.3.ino.bin",
+  "version": "4",
+  "firmware_url": "https://raw.githubusercontent.com/anusitsrb-glitch/GreenHouse-1/main/Soil_Sensor1_V.4.ino.bin",
   "ota_interval": 60000
 }
